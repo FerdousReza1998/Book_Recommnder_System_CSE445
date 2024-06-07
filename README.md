@@ -8,4 +8,6 @@ Prerequisites
 - Create a Virtual Environment:  python -m venv venv
 - Activate the Virtual Environment: .\venv\Scripts\activate
 - Install Dependencies: pip install -r requirements.txt
-- Run the Streamlit Application on localhost: streamlit run main.py 
+- Run the Streamlit Application on localhost: streamlit run main.py
+
+- in the Google Collab version, three models are used: KNN, Collaborative Filtering and Lightfm.
